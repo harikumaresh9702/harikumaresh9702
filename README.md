@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @harikumaresh9702
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Reactjs
-- 💞️ I’m looking to collaborate on MNC
+- 💞️ I’m looking to collaborate on Magic Of Webdevelopment
 - 📫 How to reach me 9150993485
 
 <!---
